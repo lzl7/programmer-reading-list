@@ -22,3 +22,5 @@
 ### Java
 * 《Effective Java》
 * 《Java Concurrency in Practice》
+### C#
+* 《C# In Depth》
